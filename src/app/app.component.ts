@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { Student } from './student.model'
+import { Student } from './student/student.model'
 
 @Component({
   selector: 'jad-root',
